@@ -1,4 +1,53 @@
-## Hi there 👋
+# 👋 Hi, I'm Toussaint Arakaza
 
-I’m Toussaint — a data and applied science student based in Canada. I’m passionate about data analysis, cloud technologies, and building practical projects that turn raw, messy data into meaningful insights. I enjoy working with real-world datasets, exploring patterns, and continuously improving my skills in Python, SQL, data visualization, and cloud platforms like AWS. This GitHub is a space where I document my learning journey, experiments, and projects as I grow into a data-driven problem solver.
+Applied Science & Data Student based in Canada  
+Passionate about Data Science, Cloud Computing & Real-World Problem Solving  
+Building practical projects using Python, SQL & Machine Learning
+
+##  About Me
+
+I am passionate about **data, statistics, and machine learning**, and how data can be used to **predict outcomes and support real-world decisions**.
+
+I enjoy working on:
+- Exploratory Data Analysis (EDA)
+- Predictive modeling
+- Data preprocessing & feature engineering
+- Cloud-based data applications 
+- Version control & collaboration with Git/GitHub
+
+I use my GitHub as a **learning journal and portfolio**, showcasing real projects, experiments, and progress.
+My goal is to become a **data-driven problem solver** who builds intelligent systems that support decision-making.
+
+##  Technical Skills
+
+###  Programming & Data
+- Python (Pandas, NumPy, Scikit-learn)
+- SQL
+- Data Cleaning & Data Exploration
+- Machine Learning
+- Statistical Analysis
+
+
+**Machine Learning**
+- Classification & Regression
+- Model evaluation
+- Data imbalance handling
+- Feature encoding & scaling
+
+###  Data Visualization
+- Matplotlib
+- Seaborn
+- Power BI 
+
+### Tools
+- AWS
+- Git & GitHub
+- Jupyter Notebook
+- VS Code
+- Power BI
+
+##  My Philosophy
+> Learning by building.  
+> Data tells stories — my role is to make them visible and useful.
+
 
