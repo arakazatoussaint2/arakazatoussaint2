@@ -37,10 +37,12 @@ My goal is to become a **data-driven problem solver** who builds intelligent sys
 ###  Data Visualization
 - Matplotlib
 - Seaborn
-- Power BI 
+- Power BI
+- Plotly studio
 
 ### Tools
-- AWS
+- Python
+- Plotly Studio
 - Git & GitHub
 - Jupyter Notebook
 - VS Code
