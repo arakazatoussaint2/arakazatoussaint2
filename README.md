@@ -21,7 +21,7 @@ My goal is to become a **data-driven problem solver** who builds intelligent sys
 ##  Technical Skills
 
 ###  Programming & Data
-- Python (Pandas, NumPy, Scikit-learn)
+- Python
 - SQL
 - Data Cleaning & Data Exploration
 - Machine Learning
