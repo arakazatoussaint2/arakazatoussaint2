@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Toussaint Arakaza
+# 👋 Hi, I'm Toussaint Saint-Sir Arakaza
 
 Applied Science & Data Student based in Canada  
 Passionate about Data Science, Cloud Computing & Real-World Problem Solving  
