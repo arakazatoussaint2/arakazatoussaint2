@@ -48,6 +48,9 @@ My goal is to become a **data-driven problem solver** who builds intelligent sys
 - VS Code
 - Power BI
 
+### Projects
+- Credit Card Default Prediction: The project predicts next-month credit card defaults using EDA, PCA, clustering, and an interpretable regression model.
+
 ##  My Philosophy
 > Learning by building.  
 > Data tells stories — my role is to make them visible and useful.
