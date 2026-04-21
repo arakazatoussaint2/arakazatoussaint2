@@ -39,6 +39,7 @@ My goal is to become a **data-driven problem solver** who builds intelligent sys
 - Seaborn
 - Power BI
 - Plotly studio
+- Excel
 
 ### Tools
 - Python
@@ -47,6 +48,7 @@ My goal is to become a **data-driven problem solver** who builds intelligent sys
 - Jupyter Notebook
 - VS Code
 - Power BI
+- Excel
 
 ### Projects
 - Credit Card Default Prediction: The project predicts next-month credit card defaults using EDA, PCA, clustering, and an interpretable regression model.
