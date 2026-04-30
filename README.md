@@ -55,7 +55,6 @@ My goal is to become a **data-driven problem solver** who builds intelligent sys
 ### Airbnb NYC Power BI Dashboard
 
 Interactive dashboard analyzing the Airbnb market in New York City using Power BI.
-
 Performed data cleaning and transformation using Power Query
 Designed a multi-page dashboard (Overview, Price Analysis, Reviews, Host Analysis)
 Built KPIs such as Total Listings, Average Price, Reviews per Month, and Potential Revenue
@@ -65,7 +64,6 @@ Provided insights on market trends, listing distribution, and investor activity
 ### Walmart Weekly Sales Prediction
 
 Machine learning project focused on predicting weekly sales for Walmart stores.
-
 Conducted Exploratory Data Analysis (EDA) to understand trends and seasonality
 Performed feature engineering (holidays, store effects, economic indicators)
 Built regression models to predict weekly sales
@@ -75,7 +73,6 @@ Identified key factors influencing sales patterns
 ### Credit Card Default Prediction
 
 Machine learning project to predict next-month credit card defaults.
-
 Applied data preprocessing, scaling, and feature engineering
 Used PCA and clustering techniques for dimensionality reduction and pattern detection
 Built classification models to predict default risk
